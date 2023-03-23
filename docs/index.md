@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: Jun
 ---
 
 ### [IdGenerator](https://id-generator.juns-app.com/)
