@@ -1,6 +1,6 @@
 ---
 layout: default
-title: tools
+title:
 ---
 
 ### [IdGenerator](https://id-generator.juns-app.com/)
@@ -20,3 +20,10 @@ title: tools
 
 ### [マインドマップ](https://next-tools.juns-app.com/mindmap)
 - マインドマップ
+
+### [CSVビューワー](https://next-tools.juns-app.com/csvv)
+- CSVを表示する
+
+### [タイマー](https://next-tools.juns-app.com/timer)
+- 自分で時間設定するタイマー
+
