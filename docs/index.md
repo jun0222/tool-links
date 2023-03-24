@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Jun
+title: tools
 ---
 
 ### [IdGenerator](https://id-generator.juns-app.com/)
@@ -27,3 +27,8 @@ title: Jun
 ### [タイマー](https://next-tools.juns-app.com/timer)
 - 自分で時間設定するタイマー
 
+### [logoメーカー](https://tools.juns-app.com/logo-maker.html)
+- ロゴ画像作成ツール
+
+### [Base64 Encoder/Decoder](https://tools.juns-app.com/base64.html)
+- base64エンコード/デコードのツール
