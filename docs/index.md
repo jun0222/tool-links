@@ -32,3 +32,6 @@ title: tools
 
 ### [Base64 Encoder/Decoder](https://tools.juns-app.com/base64.html)
 - base64エンコード/デコードのツール
+
+### [Simple Text Editor](https://tools.juns-app.com/editor)
+- テキストエディタ
