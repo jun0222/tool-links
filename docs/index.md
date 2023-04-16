@@ -3,6 +3,8 @@ layout: default
 title: tools
 ---
 
+# ツール
+
 ### [IdGenerator](https://id-generator.juns-app.com/)
 - IDや乱数などを生成するアプリ
 
@@ -35,3 +37,9 @@ title: tools
 
 ### [Simple Text Editor](https://tools.juns-app.com/editor)
 - テキストエディタ
+
+# コードスニペット
+
+- [dayjsのサンプル](https://tools.juns-app.com/snipets/dayjs-get-date-sample/)
+- [Dateクラスでのtimestamp取得、clipboardへのコピー](https://tools.juns-app.com/snipets/getTimeStampFromDateClass/)
+- [ReactのContextAPIでダークテーマ切り替え](https://tools.juns-app.com/snipets/react-context-darkmode/)
