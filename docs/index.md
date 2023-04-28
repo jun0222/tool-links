@@ -38,6 +38,9 @@ title: tools
 ### [Simple Text Editor](https://tools.juns-app.com/editor)
 - テキストエディタ
 
+### [ランダムレシピアプリ](https://tools.juns-app.com/ryouri)
+- ランダムに料理名を3つ返すアプリ
+
 # コードスニペット
 
 - [dayjsのサンプル](https://tools.juns-app.com/snipets/dayjs-get-date-sample/)
