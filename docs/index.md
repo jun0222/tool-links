@@ -41,6 +41,8 @@ title: tools
 ### [ランダムレシピアプリ](https://tools.juns-app.com/ryouri)
 - ランダムに料理名を3つ返すアプリ
 
+### [乱数生成ツール](https://tools.juns-app.com/rand/)
+
 # コードスニペット
 
 - [dayjsのサンプル](https://tools.juns-app.com/snipets/dayjs-get-date-sample/)
